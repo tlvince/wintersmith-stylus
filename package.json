@@ -1,6 +1,6 @@
 {
   "name": "wintersmith-stylus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jon Wong <j@jnwng.com>",
   "description": "stylus plugin for wintersmith",
   "license": "MIT",
@@ -8,5 +8,10 @@
     "stylus": ">= 0.0.1",
     "async": ">= 0.0.1",
     "coffee-script": "1.2.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
   }
 }
